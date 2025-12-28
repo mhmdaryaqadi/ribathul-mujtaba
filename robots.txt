@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sembunyikan folder aset dari pencarian Google agar lebih aman/rapi
+Disallow: /assets/
+Disallow: /404.html
+
+Sitemap: https://ribathulmujtaba.github.io/sitemap.xml
